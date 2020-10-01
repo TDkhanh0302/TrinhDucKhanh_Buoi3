@@ -1,0 +1,56 @@
+.full {
+    width: 1200px;
+    height: auto;
+}
+
+.row_n {
+    background-color: tomato;
+    display: flex;
+}
+
+.row_n div {
+    height: 60px;
+    border: 1px solid white;
+    text-align: center;
+    color: white;
+}
+
+.flex_one {
+    flex: 1;
+}
+
+.flex_two {
+    flex: 2;
+}
+
+.flex_three {
+    flex: 3;
+}
+
+.flex_four {
+    flex: 4;
+}
+
+.flex_five {
+    flex: 5;
+}
+
+.flex_seven {
+    flex: 7;
+}
+
+.flex_eight {
+    flex: 8;
+}
+
+.flex_nine {
+    flex: 9;
+}
+
+.flex_ten {
+    flex: 10;
+}
+
+.flex_eleven {
+    flex: 11;
+}

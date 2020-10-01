@@ -1,0 +1,57 @@
+.home {
+    width: 70%;
+    height: auto;
+    margin: auto;
+}
+
+.div_head {
+    display: flex;
+}
+
+.div_head .big_img {
+    margin: 5px;
+    height: 300px;
+    background-color: #cdcdcd;
+    flex: 2;
+}
+
+.size_big_img {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(107, 107, 109);
+    margin-block-start: 130px;
+    margin-block-end: 0px;
+    text-align: center;
+}
+
+.div_head .big_text {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 5px;
+    flex: 1;
+}
+
+.div_body {
+    display: flex;
+}
+
+.div_small {
+    margin: 5px;
+    flex: 1;
+}
+
+.small_img {
+    height: 150px;
+    background-color: #cdcdcd;
+}
+
+.size_small_img {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: rgb(107, 107, 109);
+    display: inline;
+    text-align: center;
+}
+
+.small_text {
+    font-family: Arial, Helvetica, sans-serif;
+}
